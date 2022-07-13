@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100%" alt="Developer Illustration" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Illustration.gif"/>
+    <img width="50%" alt="Developer Illustration" src="https://i.ibb.co/b7K28Q9/dd3g9y8-cf0ca715-ce11-4eb2-ba06-8b767fa54c0b.gif"/>
 </div>
 <br />
 <br />
@@ -30,10 +30,10 @@ programming.
 
 
 <div align="center">
-<a href="https://github.com/Pepyn0">
+<a href="https://github.com/yoviealfaguistuta">
     <img width=300 height=170 align="center" alt="yoviealfaguistuta" src="https://github-readme-stats.vercel.app/api?username=yoviealfaguistuta&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-  <a href="https://github.com/Pepyn0">
+  <a href="https://github.com/yoviealfaguistuta">
     <img width=250 height=170 align="center" alt="yoviealfaguistuta" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoviealfaguistuta&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
