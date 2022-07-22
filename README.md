@@ -15,20 +15,51 @@ programming.
 - 🤔 I’m looking for help with Open source Contribution.
 - 😄 Pronouns: He/Him
 
-### Skills 💬:
-
-  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
-  ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
+### Languages ⭐:
   ![Go](https://img.shields.io/badge/-Go-0D1117?style=flat&logo=go)&nbsp;
+  ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat&logo=php)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
+
+### Libraries 🧩:
+  ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+  ![jQuery](https://img.shields.io/badge/jQuery-0D1117?style=flat&logo=jquery&logoColor=1572B6)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap)&nbsp;
+  ![Redux](https://img.shields.io/badge/Redux-0D1117?style=flat&logo=redux)&nbsp;
+  ![React_Router](https://img.shields.io/badge/React_Router-0D1117?style=flat&logo=react-router)&nbsp;
+  
+### Frameworks ♻️:
+  ![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=flat&logo=laravel)&nbsp;
+
+### Databases 🌐:
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql)&nbsp;
+
+### Tests ⚙️:
+  ![Jest](https://img.shields.io/badge/Jest-0D1117?style=flat&logo=Jest)&nbsp;
+  
+### Hosts 🌨️:
+  ![Digital_Ocean](https://img.shields.io/badge/Digital_Ocean-0D1117?style=flat&logo=DigitalOcean)&nbsp;
+  ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat&logo=vercel)&nbsp;
+  
+### Automate Tools ♾️:
+  ![Jenkins](https://img.shields.io/badge/Jenkins-0D1117?style=flat&logo=Jenkins)&nbsp;
+  
+### Others ⚓:
+  ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=Node.js)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
+  ![Centos](https://img.shields.io/badge/Cent%20OS-0D1117?style=for-the-badge&style=flat&logo=CentOS&logoColor=007ACC)&nbsp;
+  ![Adobe%20Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-0D1117?style=flat&logo=adobe%20illustrator)&nbsp;
+  ![Adobe%20Premiere%20Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-0D1117?style=flat&logo=Adobe%20Premiere%20Pro)&nbsp;
+  ![Adobe%20XD](https://img.shields.io/badge/Adobe%20XD-0D1117?style=flat&logo=Adobe%20XD)&nbsp;
+  ![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat&logo=figma)&nbsp;
+  ![Android_Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=flat&logo=android-studio)&nbsp;
+  ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=flat&logo=visual%20studio%20code)&nbsp;
+  ![sublime_text](https://img.shields.io/badge/sublime_text-0D1117?style=flat&logo=sublime-text)&nbsp;
+  ![Trello](https://img.shields.io/badge/Trello-0D1117?style=flat&logo=trello)&nbsp;
+  
 <div align="center">
 <a href="https://github.com/yoviealfaguistuta">
     <img width=300 height=170 align="center" alt="yoviealfaguistuta" src="https://github-readme-stats.vercel.app/api?username=yoviealfaguistuta&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
