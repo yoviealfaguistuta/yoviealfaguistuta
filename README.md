@@ -22,7 +22,7 @@ programming.
 
 ### Libraries 🧩:
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
-  ![jQuery](https://img.shields.io/badge/jQuery-0D1117?style=flat&logo=jquery&logoColor=1572B6)&nbsp;
+  ![jQuery](https://img.shields.io/badge/jQuery-0D1117?style=flat&logo=jquery)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap)&nbsp;
   ![Redux](https://img.shields.io/badge/Redux-0D1117?style=flat&logo=redux)&nbsp;
   ![React_Router](https://img.shields.io/badge/React_Router-0D1117?style=flat&logo=react-router)&nbsp;
@@ -49,8 +49,9 @@ programming.
   ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![Centos](https://img.shields.io/badge/Cent%20OS-0D1117?style=for-the-badge&style=flat&logo=CentOS&logoColor=007ACC)&nbsp;
+  ![GitLab](https://img.shields.io/badge/-GitLab-0D1117?style=flat&logo=gitlab)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code)&nbsp;
+  ![Centos](https://img.shields.io/badge/Cent%20OS-0D1117?style=for-the-badge&style=flat&logo=CentOS)&nbsp;
   ![Adobe%20Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-0D1117?style=flat&logo=adobe%20illustrator)&nbsp;
   ![Adobe%20Premiere%20Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-0D1117?style=flat&logo=Adobe%20Premiere%20Pro)&nbsp;
   ![Adobe%20XD](https://img.shields.io/badge/Adobe%20XD-0D1117?style=flat&logo=Adobe%20XD)&nbsp;
