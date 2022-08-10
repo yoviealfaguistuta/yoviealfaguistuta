@@ -5,9 +5,7 @@
 <br />
 
 ### About me 💬:
-I am a software engineer with 1 years of experience. graduated in 2021 with a specialization in websites, <br/>
-mobile-based software, and video games. I prefer to spend time learning about new technologies related to <br/>
-programming.
+I am 23 years old and I am a web developer graduated in 2021. Coding on React JS, Laravel and Go Language with 2+ years experience. Serving 30+ users to build complex web application. My greatest strength is problem solving and logical thinking. I am very interested to use or learn the latest technology.
 
 - 🔭 I’m currently working at Microdata Indonesia as Software Engineer.
 - 🌱 I’m currently learning Go Language.
