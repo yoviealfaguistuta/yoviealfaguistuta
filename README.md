@@ -7,9 +7,9 @@
 ### About me 💬:
 I am 23 years old and I am a web developer graduated in 2021. Coding on React JS, Laravel and Go Language with 2+ years experience. Serving 30+ users to build complex web application. My greatest strength is problem solving and logical thinking. I am very interested to use or learn the latest technology.
 
-- 🔭 I’m currently working at Microdata Indonesia as Software Engineer.
+- 🔭 I’m currently working at Microdata Indonesia as Web Developer.
 - 🌱 I’m currently learning Go Language.
-- 👯 I’m willing to work remotely.
+- 👯 I’m willing to work fully remote.
 - 🤔 I’m looking for help with Open source Contribution.
 - 😄 Pronouns: He/Him
 
@@ -49,11 +49,7 @@ I am 23 years old and I am a web developer graduated in 2021. Coding on React JS
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![GitLab](https://img.shields.io/badge/-GitLab-0D1117?style=flat&logo=gitlab)&nbsp;
   ![Centos](https://img.shields.io/badge/Cent%20OS-0D1117?style=for-the-badge&style=flat&logo=CentOS)&nbsp;
-  ![Adobe%20Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-0D1117?style=flat&logo=adobe%20illustrator)&nbsp;
-  ![Adobe%20Premiere%20Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-0D1117?style=flat&logo=Adobe%20Premiere%20Pro)&nbsp;
-  ![Adobe%20XD](https://img.shields.io/badge/Adobe%20XD-0D1117?style=flat&logo=Adobe%20XD)&nbsp;
   ![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat&logo=figma)&nbsp;
-  ![Android_Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=flat&logo=android-studio)&nbsp;
   ![Trello](https://img.shields.io/badge/Trello-0D1117?style=flat&logo=trello)&nbsp;
   
 <div align="center">
