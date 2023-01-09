@@ -5,7 +5,7 @@
 <br />
 
 ### About me 💬:
-I am 23 years old and I am a web developer who graduated in 2021. Coding on React JS and Laravel with 2+ years of experience. I Already serve several clients to build web based applications. My greatest strength in technical terms is problem solving and logical thinking. I am also very enthusiastic and interested to use or learn new things.
+I am 23 years old and I am a web developer who graduated in 2021. Coding on React JS, Laravel and Go Languange with 2+ years of experience. I Already serve several clients to build web based applications. My greatest strength in technical terms is problem solving and logical thinking. I am also very enthusiastic and interested to use or learn new things.
 
 - 🔭 I’m a Web Developer.
 - 🌱 I’m currently learning Go Language.
@@ -15,6 +15,7 @@ I am 23 years old and I am a web developer who graduated in 2021. Coding on Reac
 
 ### Languages ⭐:
   ![Go](https://img.shields.io/badge/-Go-0D1117?style=flat&logo=go)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat&logo=php)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
 
@@ -26,6 +27,8 @@ I am 23 years old and I am a web developer who graduated in 2021. Coding on Reac
   ![React_Router](https://img.shields.io/badge/React_Router-0D1117?style=flat&logo=react-router)&nbsp;
   
 ### Frameworks ♻️:
+  ![Go Fiber](https://img.shields.io/badge/GoFiber-0D1117?style=flat&logo=go)&nbsp;
+  ![Next JS](https://img.shields.io/badge/NextJS-0D1117?style=flat&logo=Next.js)&nbsp;
   ![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=flat&logo=laravel)&nbsp;
 
 ### Databases 🌐:
@@ -48,7 +51,7 @@ I am 23 years old and I am a web developer who graduated in 2021. Coding on Reac
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![GitLab](https://img.shields.io/badge/-GitLab-0D1117?style=flat&logo=gitlab)&nbsp;
-  ![Centos](https://img.shields.io/badge/Cent%20OS-0D1117?style=for-the-badge&style=flat&logo=CentOS)&nbsp;
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&style=flat&logo=ubuntu)&nbsp;
   ![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat&logo=figma)&nbsp;
   ![Trello](https://img.shields.io/badge/Trello-0D1117?style=flat&logo=trello)&nbsp;
   
