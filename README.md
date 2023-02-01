@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100%" alt="Developer Illustration" src="https://i.ibb.co/Rj7x8sV/SCCS.png"/>
+    <img width="100%" alt="Developer Illustration" src="https://i.postimg.cc/DyLfqYPf/LINKEDIN-01.png"/>
 </div>
 <br />
 <br />
