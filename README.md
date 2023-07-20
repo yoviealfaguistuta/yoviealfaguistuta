@@ -1,9 +1,3 @@
-<div align="center">
-    <img width="100%" alt="Developer Illustration" src="https://i.postimg.cc/DyLfqYPf/LINKEDIN-01.png"/>
-</div>
-<br />
-<br />
-
 ### About me 💬:
 I am 23 years old and I am a web developer who graduated in 2021. Coding on React JS, Laravel and Go Languange with 2+ years of experience. I Already serve several clients to build web based applications. My greatest strength in technical terms is problem solving and logical thinking. I am also very enthusiastic and interested to use or learn new things.
 
